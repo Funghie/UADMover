@@ -1,0 +1,266 @@
+Console Recall/Tools
+UAD GateComp/Nigel
+UAD ModFilter/Nigel
+UAD Nigel/Nigel
+UAD Phasor/Nigel
+UAD Preflex/Nigel
+UAD TremFade/Nigel
+UAD TremModEcho/Nigel
+UAD CS-1/Channel
+UAD DM-1/Delay
+UAD DM-1L/Delay
+UAD EX-1/Channel
+UAD RS-1/Reverb
+UAD Pultec EQP-1A Legacy/EQ
+UAD RealVerb-Pro/Reverb
+UAD Cambridge/EQ
+UAD DreamVerb/Reverb
+UAD Fairchild/Dynamics
+UAD Pultec/EQ
+UAD Pultec-Pro/EQ
+UAD Pultec-Pro Legacy/EQ
+UAD 1176LN/Dynamics
+UAD 1176SE/Dynamics
+UAD UA 1176LN Legacy/UA
+UAD UA 1176SE Legacy/UA
+UAD LA2A Legacy/Dynamics
+UAD LA2A/Dynamics
+UAD Teletronix LA-2/Teletronix
+UAD Teletronix LA-2A Legacy/Teletronix
+UAD Precision Limiter/Precision
+UAD EMT 140/Reverb
+UAD Precision Equalizer/Precision
+UAD Roland CE-1/Modulation
+UAD Roland Dimension D/Modulation
+UAD Precision Multiband/Precision
+UAD Roland RE-201/Delay
+UAD Neve 1073 Legacy/Neve
+UAD Neve 1073/Neve
+UAD Neve 1073SE Legacy/Neve
+UAD Neve 33609/Neve
+UAD Neve 33609SE/Neve
+UAD Neve 1081/Neve
+UAD Neve 1081SE/Neve
+UAD Helios 69/EQ
+UAD LA3A/Teletronix
+UAD Precision Maximizer/Precision
+UAD Precision De-Esser/Precision
+UAD Precision Buss Compressor/Precision
+UAD SPL Transient Designer/Tools
+UAD dbx 160/Dynamics
+UAD Precision Enhancer kHz/Precision
+UAD Moog Filter/EQ
+UAD Moog Filter SE/EQ
+UAD Little Labs IBP/Tools
+UAD Harrison 32C/EQ
+UAD Harrison 32C SE/EQ
+UAD Cooper Time Cube/Delay
+UAD 4k Buss Compressor/Dynamics
+UAD 4k Channel Strip/Channel
+UAD Neve 31102/Neve
+UAD Neve 31102SE/Neve
+UAD EMT 250/Reverb
+UAD EL7 FATSO Jr/Dynamics
+UAD EL7 FATSO Sr/Dynamics
+UAD Trident A-Range/EQ
+UAD Manley Massive Passive MST/EQ
+UAD Manley Massive Passive/EQ
+UAD Precision Enhancer Hz/Precision
+UAD EP-34 Tape Echo/Delay
+UAD Studer A800/Channel
+UAD SSL G Bus Compressor/Dynamics
+UAD SSL E Channel Strip/Channel
+UAD Lexicon 224/Reverb
+UAD SPL Vitalizer MK2-T/Tools
+UAD bx_digital V2 Mono/EQ
+UAD bx_digital V2/EQ
+UAD Ampex ATR-102/Channel
+UAD Little Labs VOG/Tools
+UAD MXR Flanger-Doubler/Modulation
+UAD UA 1176 Rev A/UA
+UAD UA 1176AE/UA
+UAD UA 1176LN Rev E/UA
+UAD Oxford EQ/Sonnox
+UAD Shadow Hills Mastering Compressor/Dynamics
+UAD Precision K-Stereo/Precision
+UAD Softube Bass Amp Room/Bass
+UAD Softube Metal Amp Room/Guitar
+UAD Softube Vintage Amp Room/Guitar
+UAD Softube Amp Room Half-Stack/Guitar
+UAD Softube Bass Amp Room 8x10/Bass
+UAD API 550A/EQ
+UAD API 560/EQ
+UAD Teletronix LA-2A Gray/Teletronix
+UAD Teletronix LA-2A Silver/Teletronix
+UAD SPL TwinTube/Saturation
+UAD Oxford Inflator/Sonnox
+UAD Ocean Way Studios/Reverb
+UAD Millennia NSEQ-2/EQ
+UAD Pultec EQP-1A/EQ
+UAD Pultec HLF-3C/EQ
+UAD Pultec MEQ-5/EQ
+UAD ENGL E646 VS/Guitar
+UAD ENGL E765 RT/Guitar
+UAD bx_tuner/Pitch
+UAD API Vision Channel Strip/Channel
+UAD Maag EQ4/EQ
+UAD Fairchild 660/Dynamics
+UAD Fairchild 670 Legacy/Dynamics
+UAD Fairchild 670/Dynamics
+UAD UA 610-A/UA
+UAD UA 610-B/UA
+UAD Dangerous BAX EQ Master/EQ
+UAD Dangerous BAX EQ Mix/EQ
+UAD Chandler GAV19T/Guitar
+UAD bx_refinement/Tools
+UAD bx_saturator V2/Saturation
+UAD Neve 1073/Neve
+UAD Neve 1073SE/Neve
+UAD Valley People Dyna-mite/Dynamics
+UAD Thermionic Culture Vulture/Saturation
+UAD Tonelux Tilt Live/EQ
+UAD Tonelux Tilt/EQ
+UAD elysia alpha master/Dynamics
+UAD elysia alpha mix/Dynamics
+UAD elysia mpressor/Dynamics
+UAD AMS RMX16/Reverb
+UAD Summit Audio TLA-100A/Dynamics
+UAD Manley Variable Mu/Dynamics
+UAD MDWEQ5-3B/EQ
+UAD MDWEQ5-5B/EQ
+UAD Vertigo VSC-2/Dynamics
+UAD Vertigo VSM-3/Saturation
+UAD Bermuda Triangle/Guitar
+// v8.0.0
+UAD Friedman BE100/Guitar
+UAD Friedman DS40/Guitar
+UAD Ibanez Tube Screamer TS808/Guitar
+UAD Raw/Guitar
+UAD Sound Machine Wood Works/Guitar
+// v8.1.0
+UAD Neve 88RS/Neve
+UAD Neve 88RS Legacy/Neve
+UAD Marshall Plexi Super Lead 1959/Guitar
+UAD Tube-Tech CL 1B/Dynamics
+// v8.2.0
+UAD Precision Channel Strip/Channel
+UAD Precision Delay Mod L/Delay
+UAD Precision Delay Mod/Delay
+UAD Precision Reflection Engine/Reverb
+// v8.3.0
+UAD AKG BX 20/Reverb
+UAD Ampeg SVT3Pro/Bass
+UAD Ampeg SVTVR/Bass
+UAD Tube-Tech ME 1B/EQ
+UAD Tube-Tech PE 1C/EQ
+// v8.4.0
+UAD Eventide H910 Harmonizer/Pitch
+UAD Marshall Bluesbreaker 1962/Guitar
+UAD Marshall Silver Jubilee 2555/Guitar
+UAD Oxide Tape/Channel
+// v8.5.0
+UAD Oxford Envolution/Sonnox
+UAD Marshall JMP 2203/Guitar
+UAD bx_digital V3/EQ
+UAD bx_digital V3 mix/EQ
+// v8.6.0
+UAD Oxford Limiter/Sonnox
+UAD Chandler Limited Curve Bender/EQ
+UAD Fender 55 Tweed Deluxe/Guitar
+// v8.7.0
+UAD Studio D Chorus/Modulation
+UAD Manley VOXBOX/Channel
+UAD Galaxy Tape Echo/Delay
+UAD Brigade Chorus/Modulation
+UAD Ampeg B15N/Bass
+// v9.0.0
+UAD Townsend Labs Sphere/Mic
+UAD Townsend Labs Sphere 180/Mic
+UAD Chandler Limited Zener Limiter/Dynamics
+UAD ADA STD-1 Stereo Tapped Delay/Delay
+UAD API 2500/Dynamics
+// v9.1.0
+UAD OTO Biscuit 8-bit Effects/Tools
+UAD Fuchs Overdrive Supreme 50/Guitar
+UAD bx_subsynth/Tools
+UAD Moog Multimode Filter/EQ
+UAD Moog Multimode Filter XL/EQ
+UAD Moog Multimode Filter SE/EQ
+UAD SSL E Channel Strip Legacy/Channel
+// v9.2.0
+UAD SSL G Bus Compressor Legacy/Dynamics
+UAD Fuchs Train II/Guitar
+UAD Eden WT800/Bass
+UAD Antares Auto-Tune Realtime/Pitch
+UAD Pure Plate/Reverb
+// v9.3.0
+UAD Oxford Dynamic EQ/Sonnox
+UAD ENGL Savage 120/Guitar
+UAD Dytronics Cyclosonic Panner/Modulation
+UAD AMS RMX16 Expanded/Reverb
+UAD Korg SDD-3000/Delay
+// v9.4.0
+UAD Ocean Way Mic Collection/Mic
+UAD Marshall Plexi Classic/Guitar
+UAD Gallien Krueger 800RB/Bass
+UAD Dytronics Tri-Stereo Chorus/Modulation
+UAD TS Overdrive/Guitar
+UAD Empirical Labs FATSO Sr/Dynamics
+UAD Empirical Labs FATSO Jr/Dynamics
+UAD Empirical Labs Distressor/Dynamics
+// v9.5.0
+UAD Friedman Buxom Betty/Guitar
+UAD ADA Flanger/Guitar
+UAD Helios Type 69/EQ
+UAD Helios Type 69 Legacy/EQ
+// v9.5.1
+UAD Neve Preamp/Neve
+// v9.5.2
+UAD Ampeg SVTVR Classic/Bass
+// v9.6.0
+UAD Suhr PT100/Guitar
+UAD Putnam Mic Collection/Mic
+UAD Putnam Mic Collection 180/Mic
+UAD Ocean Way Mic Collection 180/Mic
+UAD Century Tube Channel Strip/Channel
+UAD bx_masterdesk/Tools
+// v9.7.0
+UAD Suhr SE100/Guitar
+UAD bx_masterdesk Classic/Tools
+UAD Softube Vocoder/Pitch
+UAD AMS Neve DFC Channel Strip/Neve
+UAD Lexicon 480L/Reverb
+// v9.8.0
+UAD Auto-Tune Realtime Advanced/Pitch
+UAD Diezel Herbert/Guitar
+UAD V76 Preamp/Channel
+// v9.9.0
+UAD Tube-Tech CL 1B mk II/Dynamics
+UAD Capitol Chambers/Reverb
+// v9.10.0
+UAD UA 175-B/UA
+UAD UA 176/UA
+// v9.11.0
+UAD Auto-Tune Realtime Access/Pitch
+UAD Diezel VH4/Guitar
+UAD Oxford SuprEsser DS/Sonnox
+UAD Avalon VT-737sp/Channel
+// v9.12.0
+UAD Neve 1084/Neve
+// v9.12.2
+UAD Teletronix LA-3A/Teletronix
+// v9.13.0
+UAD Neve 2254 E Dual/Neve
+UAD Neve 2254 E/Neve
+UAD Neve 33609 C/Neve
+// v 9.14
+UAD C-Suite C-Vox/Tools
+UAD API Vision Channel Strip Legacy/Channel
+UAD API Preamp/Channel
+// v 9.15
+UAD AMS DMX 15-80 S/Delay
+UAD Manley Reference Mic Preamp/Channel
+// v 10.01
+UAD Hitsville EQ Mastering/EQ
+UAD Hitsville EQ/EQ
+
