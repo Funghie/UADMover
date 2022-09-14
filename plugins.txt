@@ -264,6 +264,4 @@ UAD Manley Reference Mic Preamp/Channel
 UAD Hitsville EQ Mastering/EQ
 UAD Hitsville EQ/EQ
 // New Downloadable plugins.txt file released
-// v 10.1.1
-UAD Sphere Mic Collection/Mic
-UAD Sphere Mic Collection 180/Mic
+// v 10.1.1 No changes
