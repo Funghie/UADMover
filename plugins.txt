@@ -200,7 +200,6 @@ UAD Dytronics Cyclosonic Panner/Modulation
 UAD AMS RMX16 Expanded/Reverb
 UAD Korg SDD-3000/Delay
 // v9.4.0
-UAD Ocean Way Mic Collection/Mic
 UAD Marshall Plexi Classic/Guitar
 UAD Gallien Krueger 800RB/Bass
 UAD Dytronics Tri-Stereo Chorus/Modulation
@@ -221,6 +220,7 @@ UAD Ampeg SVTVR Classic/Bass
 UAD Suhr PT100/Guitar
 UAD Putnam Mic Collection/Mic
 UAD Putnam Mic Collection 180/Mic
+UAD Ocean Way Mic Collection/Mic
 UAD Ocean Way Mic Collection 180/Mic
 UAD Century Tube Channel Strip/Channel
 UAD bx_masterdesk/Tools
@@ -264,3 +264,6 @@ UAD Manley Reference Mic Preamp/Channel
 UAD Hitsville EQ Mastering/EQ
 UAD Hitsville EQ/EQ
 // New Downloadable plugins.txt file released
+// v 10.1.1
+UAD Sphere Mic Collection/Mic
+UAD Sphere Mic Collection 180/Mic
