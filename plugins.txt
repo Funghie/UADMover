@@ -265,3 +265,8 @@ UAD Hitsville EQ Mastering/EQ
 UAD Hitsville EQ/EQ
 // New Downloadable plugins.txt file released
 // v 10.1.1 No changes
+// v 10.2.0
+UAD Sphere Mic Collection/Mic
+UAD Sphere Mic Collection 180/Mic
+UAD C-Suite C-Axe/Guitar
+UAD Hitsville Reverb Chambers/Reverb
