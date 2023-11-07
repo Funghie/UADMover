@@ -271,3 +271,8 @@ UAD Sphere Mic Collection 180/Mic
 UAD C-Suite C-Axe/Guitar
 UAD Hitsville Reverb Chambers/Reverb
 // v 10.2.3 No changes
+// v 10.2.4 No changes
+// v 10.2.5 No changes
+// v 11.0.0
+UAD Hemisphere Mic Collection/Mic
+UAD C-Suite C-Max/Dynamics
