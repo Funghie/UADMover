@@ -276,3 +276,5 @@ UAD Hitsville Reverb Chambers/Reverb
 // v 11.0.0
 UAD Hemisphere Mic Collection/Mic
 UAD C-Suite C-Max/Dynamics
+// v 11.1.0
+UAD Auto-Tune Realtime X/Pitch
